@@ -1,0 +1,23 @@
+h2{
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: green;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px; ;
+    text-decoration: none;
+
+}
